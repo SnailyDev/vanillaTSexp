@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA,QAAQ,IAAI,CAAC","sources":["dist/script.js"],"sourcesContent":["\"use strict\";\nconsole.info(\"Welcome to the devtools! Message from the script\");\n"],"names":[],"version":3,"file":"index.662fbbe8.js.map","sourceRoot":"/__parcel_source_root/"}

@@ -1,0 +1,84 @@
+@font-face {
+  font-family: Geist;
+  src: url("Geist-ExtraBold.1f41e27a.ttf");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Geist;
+  src: url("Geist-Bold.5eb52fc7.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Geist;
+  src: url("Geist-SemiBold.fe5d5cd7.ttf");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Geist;
+  src: url("Geist-Medium.e3c05d30.ttf");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Geist;
+  src: url("Geist-Regular.7dcb8bc4.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Geist;
+  src: url("Geist-Light.c03f73ec.ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Geist;
+  src: url("Geist-Thin.49fc7d3b.ttf");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Geist;
+  src: url("Geist-ExtraLight.f49d447c.ttf");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Geist;
+  src: url("Geist-Black.44968073.ttf");
+  font-weight: 900;
+  font-style: normal;
+}
+
+h1, h2, h3 {
+  font-family: Geist;
+  font-weight: 600;
+}
+
+h4, h5, h6 {
+  font-family: Geist;
+  font-weight: 500;
+}
+
+p {
+  font-family: Geist;
+  font-weight: 400;
+}
+
+a {
+  color: #1d2d3c;
+  font-family: Geist;
+  font-weight: 600;
+}
+/*# sourceMappingURL=index.a37c6532.css.map */
